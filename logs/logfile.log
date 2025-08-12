@@ -1,0 +1,7 @@
+2025-08-12 23:10:17 663 [main] DEBUG org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
+2025-08-12 23:10:17 956 [main] DEBUG myspring.aop.annot.LoggingAspect - >>>> @Before [ sayHello ] 메서드 실행 전처리 수행
+2025-08-12 23:10:17 974 [main] DEBUG myspring.aop.annot.LoggingAspect - >>>> @Before [ print ] 메서드 실행 전처리 수행
+2025-08-12 23:10:17 974 [main] DEBUG myspring.aop.annot.LoggingAspect - >>>> @Before [ print ] 메서드 실행 전처리 수행
+2025-08-12 23:10:17 975 [main] DEBUG myspring.aop.annot.LoggingAspect - @Before [ print ] 아규먼트 Hello Spring
+2025-08-12 23:10:17 975 [main] DEBUG myspring.aop.annot.LoggingAspect - >>>> @Before [ toString ] 메서드 실행 전처리 수행
+2025-08-12 23:10:18 181 [main] DEBUG org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
